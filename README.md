@@ -17,7 +17,7 @@ Add a script `lint` like so:
 
 ```js
 "scripts": {
-  "lint": "eslint *.json *.js"
+  "lint": "eslint *.json *.js lib/**",
   ...
 }
 ```
