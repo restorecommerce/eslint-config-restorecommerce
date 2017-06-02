@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-restorecommerce",
-  "version": "0.1.3",
+  "name": "@restorecommerce/eslint-config-restorecommerce",
+  "version": "0.1.0",
   "description": "The eslint configs used for Restore Commerce",
   "main": "index",
   "author": "Invend GmbH",
@@ -20,7 +20,7 @@
     "babel-eslint": "^7.2.3",
     "eslint": "^3.19.0",
     "eslint-config-airbnb-base": "^11.2.0",
-    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-import": "^2.3.0",
     "eslint-plugin-json": "^1.2.0"
   },
   "devDependencies": {},
@@ -29,6 +29,6 @@
     "lint": "./node_modules/.bin/eslint *.json *.js rules/*.js"
   },
   "engines": {
-    "node": ">= 6.0.0"
+    "node": ">= 8.0.0"
   }
 }
