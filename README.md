@@ -1,6 +1,8 @@
 # eslint-config-restorecommerce
 
 The eslint configs used for Restore Commerce.
+The ruleset is just a slightly modified version of
+[eslint-config-airbnb-base](https://github.com/airbnb/javascript).
 
 ## Usage
 
