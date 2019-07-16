@@ -1,6 +1,6 @@
 {
   "name": "@restorecommerce/eslint-config-restorecommerce",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The eslint configs used for Restore Commerce",
   "main": "index",
   "author": "Invend GmbH",
@@ -17,11 +17,11 @@
     "config"
   ],
   "dependencies": {
-    "babel-eslint": "^8.0.3",
-    "eslint": "^4.13.1",
-    "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-json": "^1.2.0"
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-json": "^1.4.0"
   },
   "devDependencies": {},
   "scripts": {
