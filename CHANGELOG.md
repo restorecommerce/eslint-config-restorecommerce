@@ -1,3 +1,7 @@
+### 0.1.4 (August 10th, 2019)
+
+Upgrade deps.
+
 ### 0.1.3 (July 19th, 2019)
 
 Upgrade deps.
